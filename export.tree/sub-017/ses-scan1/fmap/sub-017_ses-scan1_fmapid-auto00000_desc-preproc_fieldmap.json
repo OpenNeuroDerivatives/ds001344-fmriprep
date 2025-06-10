@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-017_ses-scan1_fmapid-auto00000_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-017_ses-scan1_fmapid-auto00000_desc-coeff0_fieldmap.nii.gz",
+    "sub-017_ses-scan1_fmapid-auto00000_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "ses-scan1/func/sub-017_ses-scan1_task-eyemovement_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001344-fmriprep/sourcedata/raw/sub-017/ses-scan1/func/sub-017_ses-scan1_task-eyemovement_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
